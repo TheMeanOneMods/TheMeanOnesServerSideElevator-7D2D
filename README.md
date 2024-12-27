@@ -3,12 +3,13 @@
 TheMeanOnes ServerSide Elevator Pad is a groundbreaking server-side mod for 7 Days to Die, proudly brought to you by TheMeanOne Mods. This mod introduces the first-ever functional Server-Side Elevator in the game, allowing players to elevate their gameplay to new heights—literally!
 
 # Key Features
-                                                                                    #First-Ever Server-Side Elevator
+
+# First-Ever Server-Side Elevator
 This mod marks a milestone as the first server-side elevator system available in 7 Days to Die. No client-side downloads are required, ensuring ease of use for both players and server hosts.
 
 
 Locked Behind Progression
-- To maintain balance and progression, the ServerSide Elevator Pad is integrated into the craftingRobotics skill tree.
+To maintain balance and progression, the ServerSide Elevator Pad is integrated into the craftingRobotics skill tree.
 Unlockable at tiers 51–75, it rewards players who invest in the robotics skill path.
 
 
